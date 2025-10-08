@@ -1,3 +1,4 @@
 #!/bin/bash
-print the absolute path
+listing the contents in the working directory
+
 
